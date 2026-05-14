@@ -1,7 +1,7 @@
 const agaclar = [
     {
-        ad: "Kavak Ağacı",
-        bilgi: "2014 yılında dikildi. Ortalama boyu 6 metredir.",
+        ad: "Çam Ağacı (Pinus)",
+        bilgi: "3-5 yaş aralığındadır.Dallar üzerinde demetler halinde bulunan, sert ve sivri uçlu yaprakları vardır. Bu yapraklar her mevsim yeşil kalır.Ağacın uç kısımlarında yukarı doğru uzanan açık renkli kısımlar, ağacın bu bahar döneminde verdiği yeni sürgünlerdir.Kuraklığa ve soğuğa karşı oldukça dayanıklı bir türdür, bu yüzden peyzaj çalışmalarında ve ağaçlandırma alanlarında sıkça tercih edilir. ",
         resim: "images/agac3.jpg"
     },
 ];
